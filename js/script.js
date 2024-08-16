@@ -61,4 +61,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
+localStorage.setItem('theme','dark')
+console.log(localStorage.theme)
 
